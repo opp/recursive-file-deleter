@@ -1,0 +1,3 @@
+Recursive file deleter
+
+Originally created to delete the annoying .DS_Store files on MacOS. This is why the default file this searches for is the .DS_Store file.
